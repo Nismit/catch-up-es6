@@ -17,3 +17,5 @@ map.set('key2', 'something');
 for(let val of map) {
   console.log(val);
 }
+
+// Also you can use Set/String/Arguments Object.. literal objects
